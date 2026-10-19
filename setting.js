@@ -46,7 +46,7 @@
 global.botName = 'Rubby Multi Device'
 global.owner = [258851130376] // Ganti dengan nomor WhatsApp owner Anda (contoh: 6281234567890)
 global.mode = 'public' // 'public' atau 'self'
-global.noBot = '258869155014 // Nomor WhatsApp bot untuk pairing code
+global.noBot = '258869155014' // Nomor WhatsApp bot untuk pairing code
 global.customPairingCode = 'RUBBYMD1'
 global.botVersion = '1.5.0'
 global.botCreator = 'Kyuu'
